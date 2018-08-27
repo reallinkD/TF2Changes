@@ -1,8 +1,8 @@
 # Scout (written by the marvelous AuxiliusM)
 
 ## Weapons
-### Primary:
 
+### Primary:
 - Default Scattergun:
   - Decrease damage (~5%)
 - Soda Popper: 
@@ -20,7 +20,6 @@
   - No changes
 
 ### Secondary:
-
 - Bonk! Atomic Punch:
   - No changes
 - Default Pistol: 
@@ -38,6 +37,14 @@
 - Crit-a-Cola:
   - Decrease marked for death effect to 3 seconds
 
+### Melee:
+
+- The Atomizer
+  - Increase damage penalty (~10%)
+  - Remove melee mini-crit while airborn
+  - Tripple jump becomes passiv (again)
+  - Scouts shoes glow when tripple jump is ready
+  - Jump recharges after 5 seconds of ground time (jumping resets timer)
 
 ## Gameplay
 
