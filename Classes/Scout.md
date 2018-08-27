@@ -1,20 +1,23 @@
 # Scout (written by the marvelous AuxiliusM)
-## Weapons
 
+## Weapons
 ### Primary:
 
-- Default Scatter:
-  - A bit less dmg (-5%)(just default scatter)(we know ever scout primar its dependant on this but here everthing else stays the same this changes)
-- Soda Poper: 
-  - A bit more hpe on hit
+- Default Scattergun:
+  - Less damage (~5%)
+- Soda Popper: 
+  - Slightly increased hype on hit (~10-15%)
 - Shortstop: 
-  - return to last version (more healing)(shov stays)
+  - Return to previous version with additional healing
+  - Shove stays
 - Back Scatter:
-  - a bit more accurate 20%--->15% + //back scatter range +30%
-- Baby face: 
-  - remove on hit boost remove // enabel all jumps remove
-- force a nature : 
-  - no change
+  - Deacrease accuracy penalty (~5%)
+  - Increace back scatter range (~30%)
+- Baby Face's Blaster: 
+  - Remove on hit boost loss
+  - Jumping once depletes boost completely
+- Force-a-Nature: 
+  - No changes
 
 
 ## Gameplay
