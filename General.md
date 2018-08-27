@@ -1,5 +1,5 @@
 # General 
-## (this document is somewhat corrected of spelling errors made by AuxiliusM)
+## (this document is somewhat corrected of spelling errors made by AuxiliusN)
 
 ## Major Improvements
 - Remove random crits
