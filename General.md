@@ -14,7 +14,7 @@
 
 ## Large Content Updates
 - Heavy Update
-- Engineer vs Spy Update (jump / speed pad, mini dispenser, bullet shild building, objekt disguise kit, ...)
+- Engineer vs Spy Update (jump and/or speed pad, mini dispenser, bullet shild building, objekt disguise kit, ...)
 - Mann vs Machine content (new tours, australiums, robots)
 - Add community content packs (Iron Gauntlet, Frontline, Myan, Journey to East, ...)
 
