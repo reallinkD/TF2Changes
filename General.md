@@ -26,6 +26,7 @@
 - Miss Pauling shouldn't call for new contracts if there aren't any left
 - Re-enable changing teams and spectator
 - Add rd_astoroid and pl_cactus_canyon
+- Limited custom files support (sv_pure)
 
 ## Bugs
 - fix achivment reset
