@@ -27,6 +27,7 @@
 - Re-enable changing teams and spectator
 - Add rd_astoroid and pl_cactus_canyon
 - Limited custom files support (sv_pure)
+- Add discrete Medal Slot
 
 ## Bugs
 - fix achivment reset
