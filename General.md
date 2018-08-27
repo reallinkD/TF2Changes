@@ -25,8 +25,7 @@
 - Button clipping with 60 backpack sites
 - Miss Pauling shouldn't call for new contracts if there aren't any left
 - Re-enable changing teams and spectator
-- ears only max hat and paintable saxton would be nice
-- give us rd_astoroid and catus cannyon
+- Add rd_astoroid and pl_cactus_canyon
 
 ## Bugs
 - fix achivment reset
