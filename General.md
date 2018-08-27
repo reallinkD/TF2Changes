@@ -1,36 +1,36 @@
 # General 
-## (this document is without any correction of spelling errors made by AuxiliusM)
+## (this document is somewhat corrected of spelling errors made by AuxiliusM)
 
 ## Major Improvements
-- Remove Randomecrits
-- Improve q-ing system, reintroduce the old one (pre MyM) as a parralell system
-- join friends fast (ad hoc and stuff)
-- improve vac
-- better item info and tutorials
-- improve report syystem 
-- improve casual rating system
-- improved animations
-- better statistics (how man shots run etc)
+- Remove random crits4
+- Improved queueing system, reintroduce the old quickplay (pre MyM) as a parallel system
+- Join friends faster (like the old ad hoc system)
+- Cheater problem needs improved handling (improved VAC)
+- Improved item info and tutorials
+- Improved report system 
+- Improved casual/competetive rating system
+- Improved animations
+- Add more statistics (total shots, jumps, ...)
 
 ## Large Content Updates
-- heavy update pls
-- engi vs spy update pls (jump speed pad // min dispenser // bullet shild building // objekt disguise kid// sp stuff)
-- mann vs machine content (new astraliums)
-- add cosmetic / map updataes (iron gauntlet/ frontline / myan(rest) /journy to east /etc)
+- Heavy Update
+- Engineer vs Spy Update (jump speed pad, mini dispenser, bullet shild building, objekt disguise kit, ...)
+- Mann vs Machine content (new tours, australiums, robots)
+- Add community content packs (Iron Gauntlet, Frontline, Myan, Journey to East, ...)
 
 ## Quality of Life
 - Show tiers in leaderboard correctly
-- sv_pure 0 pls 
-- reinabel hitbox commands
-- if ou join a community server dont pull the player back from the valve server the were plaing on
-- button clipping with 60 backpack sites
-- miss pauling stop calling me everyything is done
-- reinabel changing teams + specator
-- improve clipping on many models hats etc + bugs like neon saxton (colore clith)
+- Reinabel hitbox commands
+- If ou join a community server the matchmaking system shouldn't pull the player back on the valve
+- Button clipping with 60 backpack sites
+- Miss Pauling shouldn't call for new contracts if there aren't any left
+- Re-enable changing teams and spectator
 - ears only max hat and paintable saxton would be nice
 - give us rd_astoroid and catus cannyon
 
 ## Bugs
-- achivment reset fix
-- map vote bug (cant vote sometimes)
-- unusual effect fix
+- fix achivment reset
+- fix map vote bug
+- fix broken unusual effects
+- fix clipping on models, hats, ... 
+- fix shader glitches (neon saxton)
