@@ -28,6 +28,7 @@
 - Add rd_astoroid and pl_cactus_canyon
 - Limited custom files support (sv_pure)
 - Add discrete Medal Slot
+- Dont lock up chat while scoreboard is shown
 
 ## Bugs
 - fix achivment reset
