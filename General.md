@@ -2,7 +2,7 @@
 ## (this document is somewhat corrected of spelling errors made by AuxiliusM)
 
 ## Major Improvements
-- Remove random crits4
+- Remove random crits
 - Improved queueing system, reintroduce the old quickplay (pre MyM) as a parallel system
 - Join friends faster (like the old ad hoc system)
 - Cheater problem needs improved handling (improved VAC)
