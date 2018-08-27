@@ -1,0 +1,6 @@
+# Scout
+## Weapons
+
+## Gameplay
+
+## Bugs
