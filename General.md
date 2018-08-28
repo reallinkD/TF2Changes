@@ -29,6 +29,7 @@
 - Limited custom files support (sv_pure)
 - Add discrete Medal Slot
 - Dont lock up chat while scoreboard is shown
+- Don't prevent queueing because a party member is offline
 
 ## Bugs
 - fix achivment reset
