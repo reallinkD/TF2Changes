@@ -30,6 +30,7 @@
 - Add discrete Medal Slot
 - Dont lock up chat while scoreboard is shown
 - Improve assist system
+- Make it possible to transvere strange cosmetic stats independent of cosmetic type
 
 ## Bugs
 - fix achivment reset
