@@ -40,4 +40,4 @@
 - fix shader glitches (neon saxton)
 
 ## Maps
-- fix the spawn kill exploit on pl_upward
+- fix the spawn kill exploit on pl_upward (third to last spawn)
