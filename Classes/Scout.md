@@ -21,7 +21,7 @@
 
 ### Secondary:
 - Bonk! Atomic Punch:
-  - No changes
+  - Remove bonk slowdown after touching refill cabinet
 - Default Pistol: 
   - No changes
 - Pretty Boy's Pocket Pistol:

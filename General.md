@@ -31,6 +31,8 @@
 - Add discrete Medal Slot
 - Dont lock up chat while scoreboard is shown
 - Don't prevent queueing because a party member is offline
+- Improve assist system
+- Make it possible to transvere strange cosmetic stats independent of cosmetic type
 
 ## Bugs
 - fix achivment reset
@@ -38,3 +40,6 @@
 - fix broken unusual effects
 - fix clipping on models, hats, ... 
 - fix shader glitches (neon saxton)
+
+## Maps
+- fix the spawn kill exploit on pl_upward (third to last spawn)
