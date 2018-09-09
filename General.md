@@ -38,3 +38,6 @@
 - fix broken unusual effects
 - fix clipping on models, hats, ... 
 - fix shader glitches (neon saxton)
+
+## Maps
+- fix the spawn kill exploit on pl_upward
