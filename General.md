@@ -11,6 +11,7 @@
 - Improved casual/competetive rating system
 - Improved animations
 - Add more statistics (total shots, jumps, ...)
+- Make mp_tournament recognise and warn if it's the wrong/automatically load the config for the map
 
 ## Large Content Updates
 - Heavy Update
