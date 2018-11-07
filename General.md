@@ -31,6 +31,7 @@
 - Add discrete Medal Slot
 - Dont lock up chat while scoreboard is shown
 - Don't prevent queueing because a party member is offline
+- Don't show the hint "Your party is in a match \[Join\]" when you leave a match playing alone - it's wrong, and it's annoying
 - Improve assist system
 - Make it possible to transvere strange cosmetic stats independent of cosmetic type
 
