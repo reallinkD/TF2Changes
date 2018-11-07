@@ -21,8 +21,8 @@
 
 ## Quality of Life
 - Show tiers in leaderboard correctly
-- Reinabel hitbox commands
-- If ou join a community server the matchmaking system shouldn't pull the player back on the valve
+- Reenable hitbox debug commands
+- If you join a community server the matchmaking system shouldn't pull the player back on the Valve server
 - Button clipping with 60 backpack sites
 - Miss Pauling shouldn't call for new contracts if there aren't any left
 - Re-enable changing teams and spectator
